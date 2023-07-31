@@ -1,0 +1,32 @@
+body {background-color: rgb(214, 210, 210);}
+.font-Lato{font-family: Lato;
+            text-align: justify;
+           
+}
+.tengah{display:grid;}
+h2{font-size: 20px;
+    margin-inline-start: 1cm;
+    margin-inline-end: 1cm;
+}
+h3, h4{font-size: 15px;
+        margin-inline-start: 1cm;
+}
+.jenis{font-size:15px;
+        margin-inline-start: 1cm;
+        
+}
+.font{font-size: 13px;
+        margin-inline-start: 1cm;
+}
+.ukuran{
+    font-size: 15px;
+    text-align:justify;
+    margin-inline-start: 1cm;
+    margin-inline-end: 1cm;
+}
+.table1, th, td{
+    border-collapse:separate;
+    size: 50px;
+    border: 1px solid #df0b0b;
+    padding: 8px 20px;
+}
